@@ -1,0 +1,6 @@
+ITLec.D365.CRM.Workflow.dll
+ITLec.D365.CRM.Toolkit.dll
+Microsoft.Crm.Sdk.Proxy.dll
+Microsoft.Xrm.Sdk.dll
+Microsoft.Xrm.Sdk.Workflow.dll
+Newtonsoft.Json.dll

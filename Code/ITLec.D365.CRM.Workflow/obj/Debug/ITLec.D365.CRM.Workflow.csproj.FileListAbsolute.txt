@@ -1,0 +1,3 @@
+C:\Users\Hp\Source\Workspaces\Workspace\ITLec.D365.CRM\ITLec.D365.CRM\ITLec.D365.CRM.Workflow\obj\Debug\ITLec.D365.CRM.Workflow.dll
+C:\Users\Hp\Source\Workspaces\Workspace\ITLec.D365.CRM\ITLec.D365.CRM\ITLec.D365.CRM.Workflow\obj\Debug\ITLec.D365.CRM.Workflow.pdb
+C:\Users\Hp\Source\Workspaces\Workspace\ITLec.D365.CRM\ITLec.D365.CRM\ITLec.D365.CRM.Workflow\obj\Debug\ITLec.D365.CRM.Workflow.csprojResolveAssemblyReference.cache
